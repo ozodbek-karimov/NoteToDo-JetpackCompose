@@ -1,4 +1,4 @@
-package com.example.to_docompose.navigation.destinations
+package ozodbek.pl.notetodo.navigation.destinations
 
 import androidx.compose.animation.ExperimentalAnimationApi
 import androidx.compose.animation.core.tween

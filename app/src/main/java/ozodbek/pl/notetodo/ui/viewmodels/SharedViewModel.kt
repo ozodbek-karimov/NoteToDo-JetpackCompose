@@ -29,7 +29,6 @@ class SharedViewModel(
 
     var action by mutableStateOf(Action.NO_ACTION)
         private set
-
     var id by mutableIntStateOf(0)
         private set
     var title by mutableStateOf("")

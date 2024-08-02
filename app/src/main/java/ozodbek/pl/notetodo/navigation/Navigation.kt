@@ -6,7 +6,7 @@ import androidx.compose.runtime.remember
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import ozodbek.pl.notetodo.navigation.destinations.listComposable
-import com.example.to_docompose.navigation.destinations.taskComposable
+import ozodbek.pl.notetodo.navigation.destinations.taskComposable
 import ozodbek.pl.notetodo.ui.viewmodels.SharedViewModel
 import ozodbek.pl.notetodo.util.Constants.LIST_SCREEN
 
